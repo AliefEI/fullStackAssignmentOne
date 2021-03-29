@@ -17,5 +17,5 @@ This personal full-stack assignment utilizes JS and node.js. This app allows use
 2. Navigate to `localhost:8080`
 
 ## Credit
-
+Worked with current house cass and hayden
 Modified from Scotch.io's auth tutorial
